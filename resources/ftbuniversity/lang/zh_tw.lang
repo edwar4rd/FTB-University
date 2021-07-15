@@ -1,0 +1,212 @@
+#Weird formatting guide: https://wiki.ess3.net/mc/
+
+#Quest stuff
+##Getting Started
+ftbuniversity.gettingstarted.title=再一次的從頭開始!
+
+ftbuniversity.leavespawn.title=Welcome to &dFTB University&7!
+ftbuniversity.leavespawn.subtitle=Walk a suitable distance from spawn
+ftbuniversity.leavespawn.desc1=&dFTB University&r is a modpack dedicated to teaching semi-experienced players the more complex mods and mechanics of modern modded Minecraft.
+ftbuniversity.leavespawn.desc2=University assumes you already have some basic knowledge. If you haven't, we recommend playing &dFTB Academy&r first.
+ftbuniversity.leavespawn.desc3=To start out with, just walk some distance from spawn. I won't ask you to punch down 16 trees or anything, just &bwalk (or run) about 100 blocks from wherever you spawned&r.
+ftbuniversity.leavespawn.desc4=You can pin this quest to see how far you've gone.
+ftbuniversity.leavespawn.task1=Walk 100 blocks
+ftbuniversity.leavespawn.task2=Sprint 100 blocks
+
+ftbuniversity.worldtp.title=Choose a World Generator!
+ftbuniversity.worldtp.subtitle=Decide what planet you want to live on
+ftbuniversity.worldtp.desc1=FTB University uses the mod &eAdvanced Rocketry&r to add other planets. Several of which are &eOpen Terrain Generator presets&r, which are essentially &6different world generators&r.
+ftbuniversity.worldtp.desc2=We've decided, why choose one when you can have them all? This quest will allow you to &6teleport between these different planets&r. The first one is &6free&r, but each additional teleport will cost &65 levels of experience&r!
+ftbuniversity.worldtp.desc3=&6The quest directly above this&r has a list of presets, and what makes them special.
+ftbuniversity.worldtp.desc4=&cA warning&r: OTG presets are fairly resource-intensive to generate, so you may want to &6pregenerate&r them using the OTG menu (see controls).
+ftbuniversity.worldtp.desc5=&cA second warning&r: Teleporting into ungenerated chunks causes a surprising amount of lag, so be wary of that.
+ftbuniversity.worldtp.desc6=&cA third warning&r: You &ccannot make Nether portals on other planets&r. Unfortunately, this is a technical limitation, so you'll have to make at least a small base on Earth that has a portal. Certain &cstructures and biomes from other mods will also not generate&r.
+ftbuniversity.worldtp.reward=60 seconds of immortality, in case you teleport into a block
+
+ftbuniversity.worldtp.rewards=Planets
+ftbuniversity.worldtp.reward1=Earth
+ftbuniversity.worldtp.reward2=Biome Bundle
+ftbuniversity.worldtp.reward3=Biome Bundle o' Plenty
+ftbuniversity.worldtp.reward4=Vanilla Vistas
+ftbuniversity.worldtp.reward5=Vanilla Vistas Amplified
+
+ftbuniversity.worldtpinfo.title=Oh the Places You'll Go!
+ftbuniversity.worldtpinfo.subtitle=Learn about the different presets
+ftbuniversity.worldtpinfo.desc1=The available presets are:
+ftbuniversity.worldtpinfo.desc2=• &eBiome Bundle&r, which adds &6over 200 new biomes&r, and &6over 2000 new structures&r. This one is my personal favorite.
+ftbuniversity.worldtpinfo.desc3=• &eBiome Bundle o' Plenty&r is the same, but &6incorporates biomes from the mod Biomes o' Plenty&r, which are enabled by default in the normal overworld.
+ftbuniversity.worldtpinfo.desc4=• &eVanilla Vistas&r, which "&6overhauls terrain generation and biome placement using only vanilla biomes&r." Essentially, it makes regular biomes look better, as well as having a high amount of verticality.
+ftbuniversity.worldtpinfo.desc5=• &eVanilla Vistas Amplified&r is the same, but even &6taller&r.
+
+ftbuniversity.worldtp2.title=Multipass
+ftbuniversity.worldtp2.subtitle=Buy another teleport pass
+ftbuniversity.worldtp2.desc=Spend &b5 levels of experience&r to &6teleport again&r.
+
+ftbuniversity.prefab1.title=What's an Early-Game?
+ftbuniversity.prefab1.subtitle=Enjoy your new furnishings
+ftbuniversity.prefab1.desc1=Since this pack is mostly about complex mods, why bother with the early-game grind?
+ftbuniversity.prefab1.desc2=Simply use this item on the ground anywhere and &6it will build you up a nice house&r to start out of.
+ftbuniversity.prefab1.desc3=There are six house styles you can choose from! Some of them allow you to change the blocks, size, etc.
+
+ftbuniversity.prefab2.title=Bonus Buildings
+ftbuniversity.prefab2.subtitle=Make your own Prefab
+ftbuniversity.prefab2.desc1=Prefab also comes with a bunch more buildings to plop down. These can be used to skip a bit more of the early game, if you really need to.
+ftbuniversity.prefab2.desc2=You can also search in JEI "&e@Prefab&r" to search for everything the mod adds.
+ftbuniversity.prefab2.task=Example Prefabs
+
+ftbuniversity.punchwood.title=I Lied to You, and I'm Sorry for That
+ftbuniversity.punchwood.subtitle=Punch some trees
+ftbuniversity.punchwood.desc1=I know I said I wouldn't ask you to punch down 16 trees, but you DO have to punch like, one or two trees.
+ftbuniversity.punchwood.desc2=Actually, just punch one. We have to have some quest here, and this is it. Sorry.
+ftbuniversity.punchwood.task=Any Log
+
+ftbuniversity.naturescompass.title=Location, Location, Location
+ftbuniversity.naturescompass.subtitle=Make a Nature's Compass
+ftbuniversity.naturescompass.desc1=Finding a nice spot to settle down is one of the most important parts of building a nice base. The &bNature's Compass&r will help you find a specific biome to live in.
+ftbuniversity.naturescompass.desc2=To select a biome, right-click the Nature's Compass and then find and click the biome out of the list. You can click &6Search&r to find the nearest instance of that biome or click &6Info&r to see information about that biome.
+ftbuniversity.naturescompass.desc3=OTG implements its biomes in a way different than normal, so &cNature's Compass will not be able to find OTG biomes&c.
+
+ftbuniversity.basicdrawers.title=Simple Storage
+ftbuniversity.basicdrawers.subtitle=Make any basic Drawer
+ftbuniversity.basicdrawers.desc1=&bStorage Drawers&r. You know em, you love em, you make em. &6Right-click items to store them, left-click to take them out.&r
+ftbuniversity.basicdrawers.desc2=A full size drawer can hold 64 stacks total, spread equally between its slots. Half-sized Drawers can store half as much.
+ftbuniversity.basicdrawers.task=Basic Drawers
+
+ftbuniversity.drawerstorageupgrade.title=Black Hole
+ftbuniversity.drawerstorageupgrade.subtitle=Make a Storage Upgrade
+ftbuniversity.drawerstorageupgrade.desc1=&bStorage Upgrades&r, as the name implies, allow you to increase a Drawer's maximum capacity. You can &6check the Upgrade's tooltip to see by how much&r.
+ftbuniversity.drawerstorageupgrade.desc2=You do not need a lower tier upgrade to use higher tiers. That means you could potentially install 7 tier 5 Upgrades to store 7168 stacks in one Drawer, 224 times the normal limit.
+ftbuniversity.drawerstorageupgrade.task=Storage Upgrades
+
+ftbuniversity.drawerkeys.title=Key, Please
+ftbuniversity.drawerkeys.subtitle=Make the various Keys
+ftbuniversity.drawerkeys.desc1=The &bDrawer Key&r will lock the Drawer it is clicked on, only allowing the items already in it to enter. That means if it get emptied, other items still can't fill it.
+ftbuniversity.drawerkeys.desc2=The &bConcealment Key&r will hide the contents of the Drawer it is clicked on, though it can still be interacted with.
+ftbuniversity.drawerkeys.desc3=The &bPersonal Key&r will block other players from interacting with the Drawer it is clicked on, though it can still be interacted with by machines.
+ftbuniversity.drawerkeys.desc4=The &bQuantify Key&r will make the Drawer it is clicked on show the amount of each item it has.
+
+ftbuniversity.compactdrawer.title=Squoze
+ftbuniversity.compactdrawer.subtitle=Make a Compacting Drawer
+ftbuniversity.compactdrawer.desc1=The &bCompacting Drawer&r will show 3 forms of the item you insert: the &6nugget&r form, the &6ingot&r form, and the &6block&r form.
+ftbuniversity.compactdrawer.desc2=It doesn't have to actually be a metal, it's just anything that has the same general crafting pattern. 
+ftbuniversity.compactdrawer.desc3=The maximum capacity is based off the top slot, so you can store up to 64 stacks of metal blocks at the top unupgraded, for instance.
+ftbuniversity.compactdrawer.task=Any Compacting Drawer
+
+ftbuniversity.drawercontroller.title=All in One
+ftbuniversity.drawercontroller.subtitle=Make a Drawer Controller
+ftbuniversity.drawercontroller.desc1=The &bDrawer Controller&r allows you to access all connected drawers within 12 blocks of itself. Machines and pipes will &6treat the Controller as a single inventory that has everything in all the connected Drawers&r.
+ftbuniversity.drawercontroller.desc2=&6Drawer Slaves&r will act as extensions of the Controller, allowing you to push and pull out of all connected Drawers. &6Trims&r have no inventory but will connect Drawers.
+
+ftbuniversity.frameddrawers.title=Drawer Incognito
+ftbuniversity.frameddrawers.subtitle=Make a Framing setup
+ftbuniversity.frameddrawers.desc1=The &bFraming Table&r allows you to set each part of a &bFramed Drawer&r to be a different texture.
+ftbuniversity.frameddrawers.desc2=Place the Framed Drawer into the far-left slot of the Table. Put any block into the &6top-left slot to set a base texture&r, the &6bottom slot to set the face texture&r, and the &6top-right slot to set an edge texture&r. You can see a preview on the right and in the world. 
+ftbuniversity.frameddrawers.task=Any Framed Drawer
+
+ftbuniversity.claimchunk.title=This Quest Shamelessly Stolen from Academy
+ftbuniversity.claimchunk.subtitle=Claim a chunk
+ftbuniversity.claimchunk.desc1=At the top left of the inventory, &6click the map button to see a map&r of the surrounding chunks.
+ftbuniversity.claimchunk.desc2=You can &bleft-click a chunk to claim it&r for your team, so anyone from different teams will not be able to place or break blocks in your claimed chunks. Right-click to unclaim a chunk.
+ftbuniversity.claimchunk.desc3=You can &6click a claimed chunk while holding shift to chunkload it&r, which keeps everything in it running even if you're far away or offline.
+
+# So was this
+ftbuniversity.claimexplosions.title=AWW MAN
+ftbuniversity.claimexplosions.subtitle=Get a Creeper to explode in your claimed chunks
+ftbuniversity.claimexplosions.desc1=While in claimed chunks, &6explosions will be completely disabled&r. They can still deal damage to you, but they won't break any blocks. This applies to TNT as well.
+ftbuniversity.claimexplosions.desc2=This also prevents the Wither from damaging blocks with its explosions, but it does not stop it from breaking blocks around itself when taking damage.
+
+ftbuniversity.noticon.title=Other Brands Are Available
+ftbuniversity.noticon.subtitle=Use other mods, dingus
+ftbuniversity.noticon.desc1=&eTinkers' Construct&r is a mod that adds modular tools with resource-based enchantments. It's really cool, and really powerful... and also isn't in this pack.
+ftbuniversity.noticon.desc2=While Tinkers' &ois&r a very good mod... it can be considered a bit &cover-powered&r. We're leaving it out of University to encourage using tools from other mods instead.
+ftbuniversity.noticon.desc3=Though, the mod &eCrafting Station&r does add a &bCrafting Station&r that works pretty much exactly like TiCon's. That's a start, I guess.
+
+ftbuniversity.ftbultimine.title=Free-Range Veinminer
+ftbuniversity.ftbultimine.subtitle=Hold ` to mine entire veins
+ftbuniversity.ftbultimine.desc1=&eFTB Ultimine&r is a mod that allows you to mine all connected blocks at the same time by &6holding the ` button&r, to the left of the 1 key. It still uses durability and hunger, and you can only mine up to 128 blocks at once.
+ftbuniversity.ftbultimine.desc2=You can hold &6shift + ` and scroll&r to change the shape. 
+
+ftbuniversity.quarkbackpack.title=Packback
+ftbuniversity.quarkbackpack.subtitle=Buy a Backpack
+ftbuniversity.quarkbackpack.desc1=&bBackpacks&r, added by &eQuark Oddities&r, allow you to double your inventory space when worn in your chestplate slot.
+ftbuniversity.quarkbackpack.desc2=The backpack cannot be removed while any item is in the backpack slots.
+ftbuniversity.quarkbackpack.desc3=Notice how it doesn't have a "normal" crafting recipe; instead, you have to &6trade&r for it.
+
+ftbuniversity.simplevoid.title=We Are Officially a Skyblock Now
+ftbuniversity.simplevoid.subtitle=Make a Portal to the Void
+ftbuniversity.simplevoid.desc1=Right-click a &bPortal to the Void&r to be teleported to an entirely blank void dimension.
+ftbuniversity.simplevoid.desc2=The Void-side portal is at the exact same coordinates as the Overworld-side portal.
+ftbuniversity.simplevoid.desc3=There may be &6some jank&r if you use other means to teleport to/from the Void world, rather than the Portal block. 
+
+# This is enchanting table language, leave it
+ftbuniversity.quarkenchant.title=ᑑ⚍ᔑ∷ꖌ ╎ᓭ ᔑ ᒲ𝙹↸ ʖ|| ⍊ᔑ⨅ꖌ╎╎
+ftbuniversity.quarkenchant.subtitle=Learn how to use matrix enchanting
+ftbuniversity.quarkenchant.desc1=&eQuark Oddities&r completely overhauls how the Enchantment Table works.
+ftbuniversity.quarkenchant.desc2=At the bottom, you can see the amount of levels required to create an &6enchantment shape&r. That will add that shape to the list on the right. Some enchantments might require you have over a specific amount of xp, even if it doesn't cost that much to actually make it. &6The more Bookshelves you have, the more shapes you can create&r.
+ftbuniversity.quarkenchant.desc3=Click an enchantment out of the list, and then place it anywhere in the 5x5 grid next to it (you can right-click while holding the shape to rotate it). That will apply that enchantment to the item. &6You can add as many enchantments as you have shapes, so long as they all fit together within the grid&r.
+ftbuniversity.quarkenchant.desc4=If you have multiple shapes of one enchantment, place them on top of each other to upgrade the level of that enchantment.
+ftbuniversity.quarkenchant.desc5=This can be disabled in the &6Mod Options...&r menu, searching and opening "Quark" (&nnot "Quark Oddities"&r), opening Oddities, then clicking the checkmark next to "Matrix Enchanting."
+
+ftbuniversity.exu2search.title=Legitimizing Soaryn Chests Since 2014
+ftbuniversity.exu2search.subtitle=Learn about ExU2's item locator
+ftbuniversity.exu2search.desc1=Extra Utilities 2 adds a keybind that lets you &bhover over any item in your inventory and hit T&r, and it will &6spawn particles in any nearby blocks that have that item&r.
+ftbuniversity.exu2search.desc2=This is incredibly useful for those that haven't done very much sorting in their base yet, as you can find what specific chest has a certain item.
+
+ftbuniversity.ironchests.title=Bigger on the Inside
+ftbuniversity.ironchests.subtitle=Make an upgraded Chest
+ftbuniversity.ironchests.desc1=The mod &eIron Chests&r adds several tiers of Chests that have &6more storage space&r.
+ftbuniversity.ironchests.desc2=&bCopper&r has &645&r slots.
+ftbuniversity.ironchests.desc3=&bIron&r has &654&r slots.
+ftbuniversity.ironchests.desc4=&bSilver&r has &672&r slots.
+ftbuniversity.ironchests.desc5=&bGold&r has &681&r slots.
+ftbuniversity.ironchests.desc6=&bDiamond&r, &bCrystal&r, and &bObsidian&r all have &6108&r slots. Crystal is see-through, and Obsidian is blast-proof.
+ftbuniversity.ironchests.desc7=There are also &bChest Upgrades&r that can be used on a Chest to upgrade it, without having to break it.
+ftbuniversity.ironchests.desc8=Additionally, Shulkers can also be crafted into these advanced tiers.
+ftbuniversity.ironchests.task1=Chests
+ftbuniversity.ironchests.task2=Chest Upgrades
+
+ftbuniversity.yabba.title=YABBA DABBA DOO
+ftbuniversity.yabba.subtitle=Make an Item Barrel
+ftbuniversity.yabba.desc1=&bItem Barrels&r from the mod &eYABBA&r work fairly similarly to &eStorage Drawers&r' Storage Drawers. They can &6store a massive amount of a single item&r. Right-click an item to insert it, left-click to extract.
+ftbuniversity.yabba.desc2=Item Barrels have &6lower raw storage capability&r (fully upgraded, holding 4096 stacks compared to Storage Drawers' 7168), but has &6more unique upgrades&r, and having &6better aesthetic abilities&r.
+ftbuniversity.yabba.desc3=Sneak right-click an Item Barrel to open its settings. There, you can toggle if it's locked, if it requires you to sneak to see its contents, and if it should show a progress bar instead of exact amounts.
+ftbuniversity.yabba.desc4=Barrels keep their contents when broken.
+
+ftbuniversity.ibconn.title=Barrel Controller
+ftbuniversity.ibconn.subtitle=Make an Item Barrel Connector
+ftbuniversity.ibconn.desc1=The &bItem Barrel Connector&r provides &6access to all connected Item Barrels&r.
+ftbuniversity.ibconn.desc2=This &6only works for pipes&r and the like; &cyou can't use it manually&r. It's GUI simply allows you to see the stored items and their amounts.
+
+ftbuniversity.antibarrel.title=Unstackables
+ftbuniversity.antibarrel.subtitle=Make an AntiBarrel
+ftbuniversity.antibarrel.desc1=The &bAntiBarrel&r &6stores unstackable items&r, like swords and the like.
+ftbuniversity.antibarrel.desc2=It is &6not limited to a single item type&r. It can store items regardless of their NBT and damage.
+ftbuniversity.antibarrel.desc3=This makes it &nextremely useful for mob farms&r, so you don't have to make some complex setup to void these items.
+
+ftbuniversity.yabtier.title=This Isn't Even My Final Form
+ftbuniversity.yabtier.subtitle=Make a tier upgrade
+ftbuniversity.yabtier.desc1=These tier upgrades allow you to &6store more items&r in an Item Barrel. They &6must be placed in order&r: Iron, then Gold, then Diamond. Infinite Capacity can be installed at any point, however.
+ftbuniversity.yabtier.desc2=• &bIron Tier&r can store 256 stacks.
+ftbuniversity.yabtier.desc3=• &bGold Tier&r can store 1024 stacks.
+ftbuniversity.yabtier.desc4=• &bDiamond Tier&r can store 4096 stacks.
+ftbuniversity.yabtier.desc5=• &bInfinite Capacity&r, as the name implies, can store an infinite amount.
+ftbuniversity.yabtier.task=Tier upgrades
+
+ftbuniversity.yabups.title=Function Over Form
+ftbuniversity.yabups.subtitle=Make a function upgrade
+ftbuniversity.yabups.desc1=These items can be added to Item Barrels of any tier to add some functionality.
+ftbuniversity.yabups.desc2=&bObsidian Shell&r makes Barrels &6resist explosions&r.
+ftbuniversity.yabups.desc3=&bRedstone Output&r adds several options to the Barrel's GUI to allow it to &6emit a redstone signal based on the amount stored&r.
+ftbuniversity.yabups.desc4=&bHopper&r adds options to the GUI that allow it to &6work like a Hopper&r: pulling from inventories above, pushing into inventories below, and grabbing item entities on top. All of these are configurable.
+ftbuniversity.yabups.desc5=&bVoid Items&r allows the Barrel to &6accept items even when full, destroying them&r.
+ftbuniversity.yabups.desc6=&bCollect Pickups&r allows the Barrel, when broken and in your inventory, to &6automatically collect items that you pick up&r. This is excellent for storing Cobblestone, as you can bring it with you when you go mining.
+ftbuniversity.yabups.desc7=&bItem Smelting&r will attempt to &6smelt the stored item every 20 seconds&r, dropping the result in front of it.
+ftbuniversity.yabups.task=Function upgrades
+
+ftbuniversity.barham.title=Form Over Function
+ftbuniversity.barham.subtitle=Make the various Barrel decorative items
+ftbuniversity.barham.desc1=The &bBarrel Hammer&r allows you to &6change a Barrel's model&r.
+ftbuniversity.barham.desc2=To do this, sneak right-click the Hammer, choose a model, then right-click the Barrel to apply it.
+ftbuniversity.barham.desc3=Likewise, the &bBarrel Painter&r allows you to &6change a Barrel's texture&r.
+ftbuniversity.barham.desc4=Again, sneak-right click the Painter, choose a block to use the texture of, then right-click the Barrel to apply it.
+ftbuniversity.barham.desc5=The &bBarrel Wrench&r allows you to &6rotate Barrels&r by right-clicking them. Sneak to instantly break the Barrel.
